@@ -1,0 +1,24 @@
+{
+  "name": "base64-enc-dec",
+  "version": "1.0.0",
+  "description": "An easy-to-use Base64 encoder and decoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markamirkan/base64-enc-dec.git"
+  },
+  "keywords": [
+    "base64",
+    "encode",
+    "decode"
+  ],
+  "author": "Mark Amirkan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markamirkan/base64-enc-dec/issues"
+  },
+  "homepage": "https://github.com/markamirkan/base64-enc-dec#readme"
+}
