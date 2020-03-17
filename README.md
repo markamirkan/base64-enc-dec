@@ -1,4 +1,4 @@
-#base64-enc-dec
+# base64-enc-dec
 
 An easy-to-use Base64 encoder and decoder
 
@@ -23,5 +23,7 @@ console.log(decoded); // Hello, World!
 ### License
 
 Licensed under MIT. See [LICENSE](LICENSE) for more information.  
+
 ------
+
 Created by [Mark Amirkan](https://markamirkan.com)
