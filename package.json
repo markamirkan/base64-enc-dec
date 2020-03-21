@@ -15,7 +15,7 @@
     "encode",
     "decode"
   ],
-  "author": "Mark Amirkan",
+  "author": "Mark Amirkan <markdamirkan@gmail.com> (https://markamirkan.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/markamirkan/base64-enc-dec/issues"
