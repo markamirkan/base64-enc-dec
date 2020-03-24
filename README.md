@@ -4,7 +4,11 @@ An easy-to-use Base64 encoder and decoder
 
 ### Installation
 
-`npm install base64-enc-dec`  
+`npm install base64-enc-dec`
+- to just install the package
+
+`npm install base64-enc-dec --save`
+- to add the package directly to your package.jsom
 
 ### Usage  
 
